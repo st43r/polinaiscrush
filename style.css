@@ -1,0 +1,76 @@
+body{
+    background-color: lightgreen;
+}
+
+.rus{
+    text-align: center;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    color: crimson;
+    font-family: 'Open Sans', sans-serif;
+}
+.eng{
+    text-align: center;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    color: orange;
+    font-family: 'Open Sans', sans-serif;
+}
+.ger{
+    text-align: center;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    color: yellow;
+    font-family: 'Open Sans', sans-serif;
+}
+.jap{
+    text-align: center;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    color: lawngreen;
+    font-family: 'Open Sans', sans-serif;
+}
+.chi{
+    text-align: center;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    color: rgb(0, 140, 255);
+    font-family: 'Open Sans', sans-serif;
+}
+.spa{
+    text-align: center;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    color: rgb(0, 17, 255);
+    font-family: 'Open Sans', sans-serif;
+}
+.ita{
+    text-align: center;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    color: rgb(140, 0, 255);
+    font-family: 'Open Sans', sans-serif;
+}
+.ara{
+    text-align: center;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    color: orange;
+    font-family: 'Open Sans', sans-serif;
+}
+.gre{
+    text-align: center;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    color: crimson;
+    font-family: 'Open Sans', sans-serif;
+}
